@@ -14,7 +14,7 @@ git clone https://github.com/ArrowOS/android_hardware_qcom_display -b arrow-13.0
 git clone https://github.com/LineageOS/android_packages_apps_Aperture.git -b lineage-20.0 packages/apps/Aperture
 
 # Common dt
-git clone https://github.com/bhaskar966/device_xiaomi_sm6150.git -b 13.0 device/xiaomi/sm6150-common
+git clone https://github.com/bhaskar966/device_xiaomi_sm6150_droidx.git -b 13.0 device/xiaomi/sm6150-common
 
 # Vendor
 git clone https://github.com/bhaskar966/vendor_xiaomi.git -b 13.0 vendor/xiaomi
