@@ -21,10 +21,7 @@ PRODUCT_MODEL := Redmi Note 10 Pro
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
-# Inherit some props from droidx
 #DroidXUI props
-IS_OFFICIAL := true
-DROIDX_OFFICIAL := true
-DROIDX_BUILD_TYPE := OFFICIAL
-
-DROIDX_GAPPS := true
+DROIDX_BUILDTYPE := OFFICIAL
+ro.droidx.maintainer := ʙʜᴀꜱᴋᴀʀ
+DROIDX_GAPPS := false
