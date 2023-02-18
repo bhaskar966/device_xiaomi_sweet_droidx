@@ -16,6 +16,9 @@ git clone https://github.com/LineageOS/android_packages_apps_Aperture.git -b lin
 # Common dt
 git clone https://github.com/bhaskar966/device_xiaomi_sm6150_droidx.git -b 13.0 device/xiaomi/sm6150-common
 
+# Hardware/Xiaomi
+git clone https://github.com/LineageOS/android_hardware_xiaomi.git -b lineage-20 hardware/xiaomi
+
 # Vendor
 git clone https://github.com/bhaskar966/vendor_xiaomi.git -b 13.0 vendor/xiaomi
 
